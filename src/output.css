@@ -8362,6 +8362,10 @@ input[type="text"] {
   z-index: auto;
 }
 
+.sure-gradient {
+  background: linear-gradient(90deg, #255be4 60%, #1a40a1);
+}
+
 @media (min-width: 640px) {
   .sm\:sr-only {
     position: absolute;

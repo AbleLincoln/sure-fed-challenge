@@ -11,3 +11,7 @@ input[type="text"] {
 }
 
 @tailwind utilities;
+
+.sure-gradient {
+  background: linear-gradient(90deg, #255be4 60%, #1a40a1);
+}

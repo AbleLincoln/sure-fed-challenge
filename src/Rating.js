@@ -28,12 +28,7 @@ const Rating = ({ onSubmit }) => {
 
   return (
     <div className="bg-white mx-auto px-6 py-4 rounded-lg w-11/12 max-w-xl shadow-md">
-      <h2
-        className="text-xl bg-blue-500 -mx-6 -mt-4 px-6 pt-4 pb-2 mb-4 rounded-t-lg text-blue-100"
-        style={{
-          background: 'linear-gradient(90deg, #255BE4 60%, #1A40A1)',
-        }}
-      >
+      <h2 className="sure-gradient text-xl bg-blue-500 -mx-6 -mt-4 px-6 pt-4 pb-2 mb-4 rounded-t-lg text-blue-100">
         Rating Information
       </h2>
 
